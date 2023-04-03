@@ -27,5 +27,13 @@ int main() {
 	cout << "Masukkan Umur : ";
 	cin >> mhs2.umur;
 
-	cout << 
+	cout << "\nNim = " << mhs1.NIM;
+	cout << "\nNama = " << mhs1.nama;
+	cout << "\nAlamat = " << mhs1.alamat;
+	cout << "\nUmur = " << mhs1.umur;
+
+	cout << "\n\nNim = " << mhs2.NIM;
+	cout << "\n\nNama = " << mhs2.nama;
+	cout << "\n\nAlamat = " << mhs2.alamat;
+	cout << "\n\nUmur = " << mhs2.umur;
 }
